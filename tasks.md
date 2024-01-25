@@ -1,0 +1,3 @@
+- Criar um componente chamado content
+- Colocar um título h1 e um parágrafo p e uma imagem
+- Dicas: crie outra pasta em components chamada Content e o css, criar com html o conteúdo, e colocar no arquivo App.js abaixo do Header, o arquivo principal será index também, tudo isso tem que estar dentro de uma caixa maior, pode chamar de section ou div.
