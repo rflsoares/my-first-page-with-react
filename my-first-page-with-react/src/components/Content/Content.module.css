@@ -1,0 +1,19 @@
+.content {
+    width: 100%;
+    height: 90px;
+    background-color: rgba(191, 255, 0, 0.836);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.content span {
+    font-size: 2rem;
+    color: rgba(0, 110, 255, 0.774);
+}
+
+content a {
+    font-size: 1.2rem;
+    color: rgba(255, 196, 0, 0.881)
+    text
+}
